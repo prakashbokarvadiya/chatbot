@@ -1,0 +1,46 @@
+CANDIDATE PROFILE: PRAKASH BOKARVADIYA
+
+--- PERSONAL INFORMATION ---
+Name: Prakash Bokarvadiya
+Role: Data Scientist
+Location: Sasam, Palanpur, Banaskantha
+Phone: +91-7383471389
+Email: prakashbokarvadiya0@gmail.com
+Date of Birth: 31 Aug, 2005
+LinkedIn: https://www.linkedin.com/in/prakash-bokarvadiya-609001369/
+GitHub: https://github.com/thakorhim/Prakash-Bokarvadiya
+
+--- PROFESSIONAL SUMMARY ---
+Data Science Engineer with hands-on experience in Machine Learning, Deep Learning, NLP, and Web Scraping. Skilled in building predictive models for large datasets (6M+ rows). Proficient in data acquisition, cleaning, EDA, feature engineering, and model optimization using Python. Adept at extracting and processing raw data to identify patterns like fraud detection.
+
+--- TECHNICAL SKILLS ---
+Programming Languages: Python (Advanced), SQL (Advanced)
+Machine Learning: Classification, Regression, Model Evaluation, Threshold Tuning (Advanced)
+Deep Learning: CNN, RNN, LSTM (Intermediate)
+NLP (Natural Language Processing): Sentiment Analysis, Text Preprocessing, TF-IDF, Word2Vec (Intermediate)
+Web Scraping: BeautifulSoup, Selenium, Requests (Advanced)
+Data Analysis: Data Cleaning, EDA, Feature Engineering, Multi-collinearity Handling (Advanced)
+Visualization Tools: Matplotlib, Seaborn, Plotly (Advanced)
+Version Control: Git, GitHub (Intermediate)
+
+--- PROJECTS ---
+Project Name: Fraud Detection using Machine Learning
+Description: Detected fraudulent activities in transactional data.
+Key Steps Taken:
+1. Data Preprocessing: Handled missing values, outliers, and imbalanced classes using random under-sampling and over-sampling.
+2. Feature Engineering: Analyzed transaction patterns to create relevant features.
+3. Model Building: Implemented Logistic Regression, Decision Trees, and Random Forest.
+4. Evaluation: Used F1-score, ROC-AUC, and Confusion Matrix to ensure robust performance.
+5. Insights: Visualized patterns of fraudulent behavior to support risk management.
+
+--- EDUCATION ---
+Degree: BCA (Bachelor of Computer Applications)
+University: Hemchandracharya North Gujarat University, Patan
+Year: 2025
+Percentage: 67%
+
+--- TOOLS & LIBRARIES ---
+Data Processing: Pandas, NumPy, Statsmodels
+ML & AI: Scikit-learn, XGBoost, Random Forest, Logistic Regression
+NLP: NLTK, spaCy, Gensim
+Development Environment: Jupyter Notebook, VS Code
